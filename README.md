@@ -24,5 +24,6 @@ The website lets you see the latest global cryptocurrency stats, top cryptocurre
 * [Ant Design](https://ant.design/)
 * [Redux toolkit](https://redux-toolkit.js.org/)
 * [Chart js](https://www.chartjs.org/)
+* [Rapid API](https://rapidapi.com/)
 
 

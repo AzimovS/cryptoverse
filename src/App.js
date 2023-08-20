@@ -3,7 +3,6 @@ import { Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 
 import {
-  Exchanges,
   Homepage,
   News,
   Cryptocurrencies,
@@ -23,9 +22,6 @@ const App = () => (
           <Switch>
             <Route exact path='/'>
               <Homepage />
-            </Route>
-            <Route exact path='/exchanges'>
-              <Exchanges />
             </Route>
             <Route exact path='/cryptocurrencies'>
               <Cryptocurrencies />
@@ -50,7 +46,6 @@ const App = () => (
         </Typography.Title>
         <Space>
           <Link to='/'>Home</Link>
-          <Link to='/exchanges'>Exchanges</Link>
           <Link to='/news'>News</Link>
         </Space>
       </div>

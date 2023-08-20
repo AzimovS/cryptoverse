@@ -1,7 +1,7 @@
 <h1 align="center">Cryptoverse</h1>
 
   <p align="center">
-    Full-stack website implemented using React.js
+    Website implemented using React.js
     <br />
     <br />
     <a href="https://cryptoverse-azimovs.netlify.app/">View Demo</a>
